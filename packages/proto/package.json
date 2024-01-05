@@ -70,7 +70,7 @@
     "@cosmjs/amino": "^0.29.5",
     "@cosmjs/encoding": "^0.29.5",
     "@cosmjs/proto-signing": "^0.29.5",
-    "@cosmjs/stargate": "^0.29.5",
+    "@cosmjs/stargate": "^0.32.0",
     "@cosmjs/tendermint-rpc": "^0.29.5",
     "@osmonauts/helpers": "^0.6.0",
     "@osmonauts/lcd": "^0.8.0",
